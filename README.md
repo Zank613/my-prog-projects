@@ -22,7 +22,7 @@ And every piece of code I write is a step forward on this journey. The goal isn'
 
 While the journey so far has been enriching, there's much more to explore. Here's a sneak peek into the upcoming adventures:
 
-- Constants and Strings
+- ~~Constants and Strings~~
 - Operators
 - Bit Manipulation
 - Scope, Duration, and Linkage
