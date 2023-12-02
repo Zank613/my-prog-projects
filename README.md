@@ -59,8 +59,6 @@ This project is open-sourced under the MIT License. See the [LICENSE](LICENSE) f
 ## Stay Tuned
 
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Zank613&repo=my-cpp-projects&show_owner=true)](https://github.com/Zank613/my-cpp-projects)
-
 Watch this space, as I will be consistently updating it with new and interesting projects. For the curious minds, there's always something to learn, dissect, and discuss.
 
 Happy Coding!
